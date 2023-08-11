@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Atharv Yogi</h1>
 <h3 align="center">A passionate programmer from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQg7L31eIkClkZHlCxSCWBW4tVzAk-8kyJR8w&usqp=CAU"
+<img align="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQg7L31eIkClkZHlCxSCWBW4tVzAk-8kyJR8w&usqp=CAU">
 
 - 🔭 I’m currently working on **Web Development**
 
