@@ -1,4 +1,4 @@
-[![MasterHead](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg)]
+![MasterHead](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg)
 <h1 align="center">Hi 👋, I'm Atharv Yogi</h1>
 <h3 align="center">A passionate programmer from India</h3>
 
