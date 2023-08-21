@@ -1,3 +1,4 @@
+[![MasterHead](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg)](https://ishikaagarwal3031.io)
 <h1 align="center">Hi 👋, I'm Atharv Yogi</h1>
 <h3 align="center">A passionate programmer from India</h3>
 
@@ -13,7 +14,6 @@
 
 - 📫 How to reach me **atharvyogi123@gmail.com**
 
-- ⚡ Fun fact **I think i am funny**
 
 <h3 align="left">Connect with me:</h3>
 
