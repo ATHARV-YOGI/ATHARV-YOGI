@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Atharv Yogi</h1>
-<h3 align="center">A passionate programmer from India</h3>
+
 
 <img align="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMw8u9XAejBmmCbaNBvfxpgOB4-0I44HhmdA&usqp=CAU">
 
 - 🔭 I’m currently working on **Web Development**
 
-- 🌱 I’m currently learning **Javascript**
+- 🌱 I’m currently learning **React JS**
 
 - 👯 I’m looking to collaborate on **Open-source**
 
