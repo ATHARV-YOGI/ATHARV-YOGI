@@ -5,7 +5,7 @@
 
 <img align="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMw8u9XAejBmmCbaNBvfxpgOB4-0I44HhmdA&usqp=CAU">
 
-- 🌱 I’m currently learning **OpenCV**
+- 🌱 I’m currently working on **OpenCV**
 
 - 👯 I’m looking to collaborate on **Open-source**
 
