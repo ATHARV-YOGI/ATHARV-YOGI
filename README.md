@@ -5,6 +5,11 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Open+to+Open+Source+Collabs!;Currently+Building+SharpTube+Chrome+Extension;Always+up+for+DSA+Talks!;Let%E2%80%99s+code+something+cool+%F0%9F%92%BB" alt="Typing SVG" />
 </p>
 
+<!-- Centered coding image -->
+<p align="center">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMw8u9XAejBmmCbaNBvfxpgOB4-0I44HhmdA&usqp=CAU" alt="Coding Guy" width="400" />
+</p>
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Contribution Snake">
 </p>
@@ -20,9 +25,9 @@
 
 ---
 
-### 🧠 Featured Project: [SharpTube 🚀](https://chromewebstore.google.com/detail/cgfogjgiilbjiclljlmigilbfalijnae?utm_source=item-share-cb)
+### 🧠 Try This: [SharpTube 🚀](https://chromewebstore.google.com/detail/cgfogjgiilbjiclljlmigilbfalijnae?utm_source=item-share-cb)
 > *A Chrome extension to remove distractions on YouTube like Shorts, Comments & Recommendations.*
-  
+
 ✅ Helps you stay focused  
 🛠️ Built with JavaScript & Manifest V3  
 🔥 Loved by students
