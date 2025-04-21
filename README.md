@@ -13,6 +13,12 @@
 
 - 📫 How to reach me **atharvyogi123@gmail.com**
 
+### 🚀 Try This
+- 🧠 **SharpTube - Focus-enhancing Chrome Extension**  
+  Hide distracting elements on YouTube like Shorts, comments, and recommendations.  
+  👉 [Try it on Chrome Web Store](https://chromewebstore.google.com/detail/cgfogjgiilbjiclljlmigilbfalijnae?utm_source=item-share-cb)
+
+
 
 <h3 align="left">Connect with me:</h3>
 
