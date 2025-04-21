@@ -1,40 +1,83 @@
-<h1 align="center">Hi 👋, I'm Atharv Yogi</h1>
+<h1 align="center">Hey 👋 I'm Atharv Yogi</h1>
+<h3 align="center">💻 Dev in Progress | 🧠 DSA Buff | 🛠️ Building Tools for Focus</h3>
 
-[![MasterHead](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg)](https://ATHARV-YOGI.io)
-
-
-<img align="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMw8u9XAejBmmCbaNBvfxpgOB4-0I44HhmdA&usqp=CAU">
-
-- 🌱 I’m currently working on **OpenCV**
-
-- 👯 I’m looking to collaborate on **Open-source**
-
-- 💬 Ask me about **DSA**
-
-- 📫 How to reach me **atharvyogi123@gmail.com**
-
-### 🚀 Try This
-- 🧠 **SharpTube - Focus-enhancing Chrome Extension**  
-  Hide distracting elements on YouTube like Shorts, comments, and recommendations.  
-  👉 [Try it on Chrome Web Store](https://chromewebstore.google.com/detail/cgfogjgiilbjiclljlmigilbfalijnae?utm_source=item-share-cb)
-
-
-
-<h3 align="left">Connect with me:</h3>
-
-<p align="left">
-<a href="https://linkedin.com/in/atharv-yogi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="atharv-yogi" height="30" width="40" /></a>
-<a href="https://instagram.com/atharvyogi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="atharvyogi" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Open+to+Open+Source+Collabs!;Currently+Building+SharpTube+Chrome+Extension;Always+up+for+DSA+Talks!;Let%E2%80%99s+code+something+cool+%F0%9F%92%BB" alt="Typing SVG" />
 </p>
 
-[![An image of @atharvyogi's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/atharvyogi)](https://holopin.io/@atharvyogi)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Contribution Snake">
+</p>
 
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+### 👨‍💻 About Me
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=atharv-yogi&show_icons=true&locale=en&layout=compact" alt="atharv-yogi" /></p>
+- 🔭 Working on: `OpenCV` & `Productive Extensions`
+- 🤝 Looking to collaborate on: `Open Source Projects`
+- 📬 Reach me: **atharvyogi123@gmail.com**
+- 💬 Ask me about: `DSA`, `Node.js`, `React`, and `Focus Tools`
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=atharv-yogi&show_icons=true&locale=en" alt="atharv-yogi" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=atharv-yogi&" alt="atharv-yogi" /></p>
+### 🧠 Featured Project: [SharpTube 🚀](https://chromewebstore.google.com/detail/cgfogjgiilbjiclljlmigilbfalijnae?utm_source=item-share-cb)
+> *A Chrome extension to remove distractions on YouTube like Shorts, Comments & Recommendations.*
+  
+✅ Helps you stay focused  
+🛠️ Built with JavaScript & Manifest V3  
+🔥 Loved by students
+
+---
+
+### 🛠️ Languages & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,css,html,js,nodejs,react,express,mongodb,github,git,vscode&theme=dark" />
+</p>
+
+---
+
+### 📊 GitHub Stats (Dark Mode)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=atharv-yogi&show_icons=true&theme=github_dark&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=atharv-yogi&theme=github-dark&hide_border=true" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atharv-yogi&layout=compact&theme=github_dark&hide_border=true" width="50%" />
+</p>
+
+---
+
+### 🌍 Connect with Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/atharv-yogi" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/atharvyogi" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="mailto:atharvyogi123@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://holopin.io/@atharvyogi" target="_blank">
+    <img src="https://holopin.me/atharvyogi" alt="Holopin Badges" width="300px"/>
+  </a>
+</p>
+
+---
+
+### ⚡ Fun Fact
+
+```js
+while (!success) {
+  try();
+  catch(errors);
+  learnFromIt();
+  retry();
+}
