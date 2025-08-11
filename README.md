@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋 I'm Atharv Yogi</h1>
+<h1 align="center">Hey I'm Atharv Yogi</h1>
 <h3 align="center">Dev in Progress | Building Tools for Focus</h3>
 
 <p align="center">
@@ -24,13 +24,13 @@
 
 ---
 
-###  Try This: [SharpTube 🚀](https://chromewebstore.google.com/detail/cgfogjgiilbjiclljlmigilbfalijnae?utm_source=item-share-cb)
+###  Try This: [SharpTube](https://chromewebstore.google.com/detail/cgfogjgiilbjiclljlmigilbfalijnae?utm_source=item-share-cb)
 > *A productivity tool for students to remove distractions on YouTube like Shorts, Comments & Recommendations.*
 
  Helps you stay focused  
  Loved by students
 
-###  Try This: [DSASwitcher 🚀](https://chromewebstore.google.com/detail/cgfogjgiilbjiclljlmigilbfalijnae?utm_source=item-share-cb)
+###  Try This: [DSASwitcher](https://chromewebstore.google.com/detail/cgfogjgiilbjiclljlmigilbfalijnae?utm_source=item-share-cb)
 > *A productivity tool for DSA learner's to stay consistent in DSA it redirects learner's to the Leetcode questions when they visited unwanted websites or switches unwanted tabs*
 
  Helps you stay focused  
@@ -46,7 +46,7 @@
 
 ---
 
-### 📊 GitHub Stats (Dark Mode)
+### GitHub Stats (Dark Mode)
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=atharv-yogi&show_icons=true&theme=github_dark&hide_border=true" width="48%" />
@@ -59,7 +59,7 @@
 
 ---
 
-### 🌍 Connect with Me
+### Connect with Me
 
 <p align="center">
   <a href="https://linkedin.com/in/atharv-yogi" target="_blank">
