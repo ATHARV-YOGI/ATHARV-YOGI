@@ -25,12 +25,17 @@
 
 ---
 
-### 🧠 Try This: [SharpTube 🚀](https://chromewebstore.google.com/detail/cgfogjgiilbjiclljlmigilbfalijnae?utm_source=item-share-cb)
-> *A Chrome extension to remove distractions on YouTube like Shorts, Comments & Recommendations.*
+###  Try This: [SharpTube 🚀](https://chromewebstore.google.com/detail/cgfogjgiilbjiclljlmigilbfalijnae?utm_source=item-share-cb)
+> *A productivity tool for students to remove distractions on YouTube like Shorts, Comments & Recommendations.*
 
-✅ Helps you stay focused  
-🛠️ Built with JavaScript & Manifest V3  
-🔥 Loved by students
+ Helps you stay focused  
+ Loved by students
+
+###  Try This: [DSASwitcher 🚀](https://chromewebstore.google.com/detail/cgfogjgiilbjiclljlmigilbfalijnae?utm_source=item-share-cb)
+> *A productivity tool for DSA learner's to stay consistent in DSA it redirects learner's to the Leetcode questions when they visited unwanted websites or switches unwanted tabs*
+
+ Helps you stay focused  
+ Loved by students
 
 ---
 
