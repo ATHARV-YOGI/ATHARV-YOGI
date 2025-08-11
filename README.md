@@ -1,8 +1,8 @@
 <h1 align="center">Hey 👋 I'm Atharv Yogi</h1>
-<h3 align="center">💻 Dev in Progress | 🧠 DSA Buff | 🛠️ Building Tools for Focus</h3>
+<h3 align="center">Dev in Progress | Building Tools for Focus</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Open+to+Open+Source+Collabs!;Currently+Building+SharpTube+Chrome+Extension;Always+up+for+DSA+Talks!;Let%E2%80%99s+code+something+cool+%F0%9F%92%BB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Open+to+Open+Source+Collabs!;Currently+Building+Focus+Tools+;Always+up+for+DSA+Talks!;Let%E2%80%99s+code+something+cool+%F0%9F%92%BB" alt="Typing SVG" />
 </p>
 
 <!-- Centered coding image -->
@@ -16,12 +16,11 @@
 
 ---
 
-### 👨‍💻 About Me
+### About Me
 
-- 🔭 Working on: `OpenCV` & `Productive Extensions`
-- 🤝 Looking to collaborate on: `Open Source Projects`
-- 📬 Reach me: **atharvyogi123@gmail.com**
-- 💬 Ask me about: `DSA`, `Node.js`, `React`, and `Focus Tools`
+- Working on: `OpenCV` & `Productive Tools`
+- Looking to collaborate on: `Open Source Projects`
+- Reach me: **atharvyogi123@gmail.com**
 
 ---
 
@@ -39,7 +38,7 @@
 
 ---
 
-### 🛠️ Languages & Tools
+### Languages & Tools
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,css,html,js,nodejs,react,express,mongodb,github,git,vscode&theme=dark" />
@@ -82,12 +81,4 @@
 
 ---
 
-### ⚡ Fun Fact
 
-```js
-while (!success) {
-  try();
-  catch(errors);
-  learnFromIt();
-  retry();
-}
