@@ -75,7 +75,7 @@
 
 <p align="center">
   <a href="https://holopin.io/@atharvyogi" target="_blank">
-    <img src="https://holopin.me/atharvyogi" alt="Holopin Badges" width="300px"/>
+    <img src="https://holopin.me/atharvyogi" alt="Holopin Badges"/>
   </a>
 </p>
 
