@@ -26,7 +26,7 @@
 
 ###  Try This:
 [LostLink](https://apkpure.com/p/com.example.lost_link)
-> *Find and recover lost items near you instantly with LostLink.It's a smart location-based lost and found app designed to help users quickly report and recover lost items.*
+> *Find and recover lost items near you instantly with LostLink. It's a smart location-based lost and found app designed to help users quickly report and recover lost items.*
 
 ###  Try This: [SharpTube](https://chromewebstore.google.com/detail/cgfogjgiilbjiclljlmigilbfalijnae?utm_source=item-share-cb)
 > *A productivity tool for students to remove distractions on YouTube like Shorts, Comments & Recommendations.*
